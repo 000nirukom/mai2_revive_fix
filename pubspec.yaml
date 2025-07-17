@@ -27,7 +27,7 @@ dependencies:
   universal_io: ^2.2.2
   flutter_web_plugins:
     sdk: flutter
-  wakelock_windows: ^0.1.0  # 添加 Windows 支持
+  wakelock_windows: ^0.2.1  # 添加 Windows 支持
 
 dev_dependencies:
   flutter_test:
